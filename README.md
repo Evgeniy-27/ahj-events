@@ -1,6 +1,6 @@
-
-
 [![Build status](https://ci.appveyor.com/api/projects/status/b88cvrunc5xxttf0?svg=true)](https://ci.appveyor.com/project/Evgeniy-27/ahj-events)
+
+[GitHub Pages](https://evgeniy-27.github.io/ahj-events/)
 
 ### Игра с гоблинами
 
